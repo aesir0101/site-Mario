@@ -27,7 +27,7 @@ Criar um design envolvente com vídeo de background e navegação dinâmica
 
 Reproduzir a sensação de um site oficial de divulgação de filme
 
-⚙️ Tecnologias utilizadas
+# Tecnologias utilizadas ⚙️
 
 HTML5 → Estrutura semântica e acessível
 
